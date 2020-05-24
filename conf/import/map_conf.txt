@@ -1,5 +1,5 @@
 userid: maplero
-passwd: maplero
+passwd: maplero123
 //====================
 char_ip: 23.106.122.123
 map_ip: 23.106.122.123

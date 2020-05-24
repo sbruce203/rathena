@@ -1,27 +1,27 @@
 login_server_id: maplero
-login_server_pw: maplero
+login_server_pw: maplero123
 login_server_db: main
 //====================
 ipban_db_id: maplero
-ipban_db_pw: maplero
+ipban_db_pw: maplero123
 ipban_db_db: main
 //====================
 char_server_id: maplero
-char_server_pw: maplero
+char_server_pw: maplero123
 char_server_db: main
 //====================
 map_server_id: maplero
-map_server_pw: maplero
+map_server_pw: maplero123
 map_server_db: main
 //====================
-log_db_id: maplero
-log_db_pw: maplero
-log_db_db: main
-//====================
+log_db_id: log
+log_db_pw: admin
+log_db_db: 123456
+
 item_db_re_db: item_db_re
 item_db2_db: item_db2_re
 //====================
-mob_db_re_db: mob_db_re             
+mob_db_re_db: mob_db_re    
 mob_db2_db: mob_db2_re
 //====================
 mob_skill_db_re_db: mob_skill_db_re
